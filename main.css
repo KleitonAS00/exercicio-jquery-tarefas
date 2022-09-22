@@ -37,15 +37,19 @@ form button {
 }
 
 ul{
-    text-align: center;
-    margin-top: 36px;
-    width: 100%;
+    text-align: left;
+    margin: 36px auto;
+    width: 20%;
 }
 
 .btn {
     background: none;
     border: none;
     font-size: 16px;
+    cursor: pointer;
+}
+
+li {
     cursor: pointer;
 }
 
